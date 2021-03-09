@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/stephane_branly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stephane_branly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stephanebranly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephanebranly" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stephane_branly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="stephane_branly" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2AEn2UpgLI0RDatPYZ3_gQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="stephane_branly" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
