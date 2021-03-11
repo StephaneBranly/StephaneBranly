@@ -31,7 +31,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephanebranly&show_icons=true&locale=en&text_color=FFFFFF&title_color=FFFFFF&bg_color=90,07ec99,150941" alt="stephanebranly" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephanebranly&show_icons=true&locale=en&text_color=FFFFFF&title_color=FFFFFF&bg_color=90,004aad,150941" alt="stephanebranly" /></p><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanebranly&show_icons=true&locale=en&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&bg_color=90,07ec99,150941" alt="stephanebranly" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanebranly&show_icons=true&locale=en&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&bg_color=90,004aad,150941" alt="stephanebranly" /></p>
 
