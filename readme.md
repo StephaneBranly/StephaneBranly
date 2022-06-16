@@ -1,5 +1,5 @@
 <h1 align="center">Stéphane</h1>
-<h3 align="center">UTC student, Computer Science</h3>
+<h3 align="center">UTC student, Computer Science, Artificial Intelligence and Data Science</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
